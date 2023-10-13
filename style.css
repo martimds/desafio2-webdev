@@ -1,0 +1,34 @@
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+}
+
+.text-container {
+  width: 900px;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header-container {
+  display: flex;
+  width: 900px;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  padding-bottom: 15px;
+  margin-top: 20px;
+}
+
+.footer {
+  text-align: center;
+}
