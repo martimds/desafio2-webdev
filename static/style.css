@@ -32,3 +32,15 @@
 .footer {
   text-align: center;
 }
+
+.home {
+  background-image: url('../static/img/fundo.png');
+}
+
+.contato {
+  background-image: url('../static/img/fundo2.png');
+}
+
+.quemsomos {
+  background-image: url('../static/img/fundo2.png');
+}
